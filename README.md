@@ -16,7 +16,7 @@ Java Development Kit (JDK)\
 CloudSim library (included in the lib folder)
 
 Usage:\
-Clone the repository: git clone https://github.com/your-username/your-repo.git\
+Clone the repository: git clone https://github.com/your-username/your-repo.git \
 Open the project in your favorite Java IDE.\
 Run the RLSVNESimulator class.
 

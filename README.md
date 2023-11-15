@@ -3,10 +3,10 @@ RLSVNE CloudSim Simulator
 Overview
 This repository contains a Java implementation of the RLSVNE (Resource and Link-aware Service Function Chaining Virtual Network Embedding) algorithm using the CloudSim library. RLSVNE is a heuristic algorithm designed for efficient virtual network embedding in cloud environments.
 
-Introduction
+Introduction :
 The RLSVNE algorithm is implemented in Java using the CloudSim library. It simulates the embedding of virtual nodes onto substrate nodes in a cloud environment, considering resource availability and link relations.
 
-Features
+Features :
 RLSVNE Algorithm: Efficient virtual network embedding heuristic.
 CloudSim Integration: Utilizes the CloudSim library for network datacenter simulations.
 Modular Structure: Easily adaptable and extendable for further experimentation.
